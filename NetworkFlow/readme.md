@@ -45,6 +45,8 @@ G=(V, E)에서, 집합 E의 임의의 원소 e에 대해, **f(e) <= c(e)** 를 �
 
 이와 같은 상황을 막고자. flow conservation 조건을 건 것이다. 
 
+
+
 자, 그러면, **이 조건들을 만족하는 directed graph를, Flow Network** 라고 한다. directed graph임에 유의하자. 왜냐면, 언젠가 중요해지는 날이 오니까...(Stoer-Wagner Global Min-cut algorithm)
 
 
