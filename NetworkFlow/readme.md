@@ -99,7 +99,7 @@ G=(V, E)에서, 집합 E의 임의의 원소 e에 대해, **f(e) <= c(e)** 를 �
 
 증가 경로를 알아 보자. 증가 경로란, **소스-> 싱크까지, 잔여 용량이 양수인 간선들로만 구성되어서, 이 경로를 통해서 유량을 보낼 수 있는 경로** 이다. 
 
--> **augmenting path P is a set of edges, and for all element of P(p), r(p) > 0 holds.**
+-> **augmenting path P is a set of edges, and Let p denotes arbitrary element of P. for all p, r(p) > 0 holds.**
 
 증가 경로가 존재하면, 최대 유량은 maximal 하지 않다. 왜? 증가 경로가 존재하면, 해당 증가 경로를 통해서 추가적인 유량을 보내서, 현재의 유량보다 더 큰 값을 유량을 찾을 수 있기 때문이다. 
 
