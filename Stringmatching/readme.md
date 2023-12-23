@@ -11,3 +11,5 @@ S의 각 index에 대해, index i에서 비교를 시작한다. (0 <= i <= S.len
 예를 들어서, S = "aaaaaaaa" 라고 하고, P = "aaab" 라고 해 보자. 당연히 S에는 패턴 P가 등장하지 않는다는 것을 보자마자 알 수 있지만, naive한 탐색은, 20회의 비교 연산을 한 후에야 S에 P가 없다는 사실을 알게 된다. 
 
 이제, 이를 어떻게 최적화할 수 있는지 알아 보자 
+
+**next : https://github.com/2e2guk/Algorithm/tree/main/Stringmatching/KMP**
