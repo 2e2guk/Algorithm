@@ -1,5 +1,7 @@
 # NetWork Flow #
 
+**prev : (그래프이론 설명 링크)**
+
 ### Initial approach ###
 서울역에서, 부산역까지 물류를 기찻길을 통해서 보낸다고 해 보자. 당연히 서울역과 부산역 사이에는 많은 역들이 존재한다.(지금 들어오는 열차는 우리 역을 통과하는 열차입니다)
 
@@ -127,4 +129,4 @@ c)a, b를 둘다 만족시킨다.
 
 한편, 증가 경로는, "어떻게" 찾을까? Flow Network도 일종의 그래프이므로, 그래프 탐색 알고리즘인, DFS, BFS 등을 이용해 찾을 수 있을 것이다. **DFS를 이용하냐, BFS를 이용하냐의 차이는 엄청난데**, 이유는 후술한다. 
 
-
+**Next : https://github.com/2e2guk/Algorithm/tree/main/NetworkFlow/Edmonds-karp**
