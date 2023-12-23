@@ -44,3 +44,6 @@
 ## Edmonds-Karp 알고리즘의 수행. 
 
 Edmonds-Karp 알고리즘은, 증가 경로를 이렇게 **Residual Graph상에서의 소스->싱크로의 최단 경로** 인 것을 선택함으로써, 빠르게 증가 경로를 구성하고, O(V*E^2) 시간에 최대 유량을 찾는다. 
+
+
+**Next : https://github.com/2e2guk/Algorithm/tree/main/NetworkFlow/Dinic**
