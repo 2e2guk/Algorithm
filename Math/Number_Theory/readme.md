@@ -1,3 +1,5 @@
 # 정수론 #
 
-PS, Algorithm 분야에서, 
+## Modular Arithmetic(모듈러 계) ##
+
+-> 모듈러 계란, 
