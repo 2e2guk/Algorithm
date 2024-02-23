@@ -1,3 +1,5 @@
+Prev : https://github.com/2e2guk/Algorithm/tree/main/Query
+
 # Segment Tree #
 
 segment tree, 세그먼트 트리는, 구간 트리라고도 불리며, 이진 트리의 형태를 띠고 있다. 저장된 자료들을 적절히 전처리해서, 그들에 대한 질의를 빠르게 처리하는 자료 구조이다. 
