@@ -8,6 +8,6 @@ PS에서의 쿼리는, 수열, 트리등의 자료구조에, 원하는 작업을
 
 사실 그냥 간단히 생각하면, 이 분야에 알고리즘이 있을까 싶을 정도로 단순한 분야라고 생각할 수 있지만, 사실 PS 분야에서 단골로 나오는 분야 중 하나이다. 
 
-Next : (segment tree 설명 링크) 
+Next : https://github.com/2e2guk/Algorithm/tree/main/Query/SegmentTree
 
 
