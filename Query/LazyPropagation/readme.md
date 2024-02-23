@@ -1,4 +1,4 @@
-Prev : (segment tree 링크)
+Prev : https://github.com/2e2guk/Algorithm/tree/main/Query/SegmentTree
 
 # Lazy Propagation #
 
