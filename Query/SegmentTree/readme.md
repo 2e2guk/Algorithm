@@ -22,7 +22,7 @@ segment tree, 세그먼트 트리는, 구간 트리라고도 불리며, 이진 �
 
 쿼리의 종류가 바뀌어도(ex. 주어진 구간의 원소들의 합을 구하는 쿼리), segment tree를 구성하는 과정은 달라지지 않는다(리프 노드는 배열의 값 자체, 자신의 자식 노드들의 합을 저장). 
 
-Next : (lazy prop 링크)
+Next : https://github.com/2e2guk/Algorithm/blob/main/Query/LazyPropagation/readme.md
 
 
 
