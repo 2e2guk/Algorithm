@@ -99,6 +99,8 @@ G=(V, E)에서, 집합 E의 임의의 원소 e에 대해, **f(e) <= c(e)** 를 �
 
 -> **for all element e in edge set E, residual capacity of e, r(e) = c(e)-f(e)**
 
+#### 증가 경로(augmenting path)
+
 증가 경로를 알아 보자. 증가 경로란, **소스-> 싱크까지, 잔여 용량이 양수인 간선들로만 구성되어서, 이 경로를 통해서 유량을 보낼 수 있는 경로** 이다. 
 
 -> **augmenting path P is a set of edges, and Let p denotes arbitrary element of P. for all p, r(p) > 0 holds.**
